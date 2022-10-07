@@ -7,23 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D53DFEB428EF712600A8D8C2 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53DFEB328EF712600A8D8C2 /* QuestionViewController.swift */; };
+		D53DFEB628EF717100A8D8C2 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53DFEB528EF717100A8D8C2 /* ResultsViewController.swift */; };
+		D53DFEBA28EF898200A8D8C2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53DFEB928EF898200A8D8C2 /* Question.swift */; };
 		D544FBBC28EE791200D7D9CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D544FBBB28EE791200D7D9CD /* AppDelegate.swift */; };
 		D544FBBE28EE791200D7D9CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D544FBBD28EE791200D7D9CD /* SceneDelegate.swift */; };
-		D544FBC028EE791200D7D9CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D544FBBF28EE791200D7D9CD /* ViewController.swift */; };
+		D544FBC028EE791200D7D9CD /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D544FBBF28EE791200D7D9CD /* IntroductionViewController.swift */; };
 		D544FBC328EE791200D7D9CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D544FBC128EE791200D7D9CD /* Main.storyboard */; };
 		D544FBC528EE791300D7D9CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D544FBC428EE791300D7D9CD /* Assets.xcassets */; };
 		D544FBC828EE791300D7D9CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D544FBC628EE791300D7D9CD /* LaunchScreen.storyboard */; };
+		D54C671628EF5CC600AC051A /* kindpng_4847649.png in Resources */ = {isa = PBXBuildFile; fileRef = D54C671228EF5CC600AC051A /* kindpng_4847649.png */; };
+		D54C671728EF5CC600AC051A /* PngItem_1762233.png in Resources */ = {isa = PBXBuildFile; fileRef = D54C671328EF5CC600AC051A /* PngItem_1762233.png */; };
+		D54C671828EF5CC600AC051A /* pngaaa.com-3841024.png in Resources */ = {isa = PBXBuildFile; fileRef = D54C671428EF5CC600AC051A /* pngaaa.com-3841024.png */; };
+		D54C671928EF5CC600AC051A /* pngkey.com-crest-png-439176.png in Resources */ = {isa = PBXBuildFile; fileRef = D54C671528EF5CC600AC051A /* pngkey.com-crest-png-439176.png */; };
+		D558BC1F28EE805D00EC0584 /* Harry_Potter-Logo-PNG1.png in Resources */ = {isa = PBXBuildFile; fileRef = D558BC1E28EE805D00EC0584 /* Harry_Potter-Logo-PNG1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D53DFEB328EF712600A8D8C2 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		D53DFEB528EF717100A8D8C2 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		D53DFEB928EF898200A8D8C2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		D544FBB828EE791200D7D9CD /* PersonalityQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalityQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D544FBBB28EE791200D7D9CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D544FBBD28EE791200D7D9CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D544FBBF28EE791200D7D9CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D544FBBF28EE791200D7D9CD /* IntroductionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionViewController.swift; sourceTree = "<group>"; };
 		D544FBC228EE791200D7D9CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D544FBC428EE791300D7D9CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D544FBC728EE791300D7D9CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D544FBC928EE791300D7D9CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D54C671228EF5CC600AC051A /* kindpng_4847649.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kindpng_4847649.png; path = "../../../../../Downloads/iloveimg-resized (3)/kindpng_4847649.png"; sourceTree = "<group>"; };
+		D54C671328EF5CC600AC051A /* PngItem_1762233.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = PngItem_1762233.png; path = "../../../../../Downloads/iloveimg-resized (3)/PngItem_1762233.png"; sourceTree = "<group>"; };
+		D54C671428EF5CC600AC051A /* pngaaa.com-3841024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pngaaa.com-3841024.png"; path = "../../../../../Downloads/iloveimg-resized (3)/pngaaa.com-3841024.png"; sourceTree = "<group>"; };
+		D54C671528EF5CC600AC051A /* pngkey.com-crest-png-439176.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pngkey.com-crest-png-439176.png"; path = "../../../../../Downloads/iloveimg-resized (3)/pngkey.com-crest-png-439176.png"; sourceTree = "<group>"; };
+		D558BC1E28EE805D00EC0584 /* Harry_Potter-Logo-PNG1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Harry_Potter-Logo-PNG1.png"; path = "../../../../../Downloads/Harry_Potter-Logo-PNG1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +53,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D53DFEB728EF891400A8D8C2 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D544FBBF28EE791200D7D9CD /* IntroductionViewController.swift */,
+				D53DFEB328EF712600A8D8C2 /* QuestionViewController.swift */,
+				D53DFEB528EF717100A8D8C2 /* ResultsViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		D53DFEB828EF894100A8D8C2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D53DFEB928EF898200A8D8C2 /* Question.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		D544FBAF28EE791200D7D9CD = {
 			isa = PBXGroup;
 			children = (
@@ -56,13 +90,19 @@
 		D544FBBA28EE791200D7D9CD /* PersonalityQuiz */ = {
 			isa = PBXGroup;
 			children = (
+				D53DFEB828EF894100A8D8C2 /* Models */,
+				D53DFEB728EF891400A8D8C2 /* Controllers */,
 				D544FBBB28EE791200D7D9CD /* AppDelegate.swift */,
 				D544FBBD28EE791200D7D9CD /* SceneDelegate.swift */,
-				D544FBBF28EE791200D7D9CD /* ViewController.swift */,
 				D544FBC128EE791200D7D9CD /* Main.storyboard */,
 				D544FBC428EE791300D7D9CD /* Assets.xcassets */,
 				D544FBC628EE791300D7D9CD /* LaunchScreen.storyboard */,
 				D544FBC928EE791300D7D9CD /* Info.plist */,
+				D558BC1E28EE805D00EC0584 /* Harry_Potter-Logo-PNG1.png */,
+				D54C671228EF5CC600AC051A /* kindpng_4847649.png */,
+				D54C671428EF5CC600AC051A /* pngaaa.com-3841024.png */,
+				D54C671328EF5CC600AC051A /* PngItem_1762233.png */,
+				D54C671528EF5CC600AC051A /* pngkey.com-crest-png-439176.png */,
 			);
 			path = PersonalityQuiz;
 			sourceTree = "<group>";
@@ -125,9 +165,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D54C671928EF5CC600AC051A /* pngkey.com-crest-png-439176.png in Resources */,
 				D544FBC828EE791300D7D9CD /* LaunchScreen.storyboard in Resources */,
+				D558BC1F28EE805D00EC0584 /* Harry_Potter-Logo-PNG1.png in Resources */,
 				D544FBC528EE791300D7D9CD /* Assets.xcassets in Resources */,
 				D544FBC328EE791200D7D9CD /* Main.storyboard in Resources */,
+				D54C671828EF5CC600AC051A /* pngaaa.com-3841024.png in Resources */,
+				D54C671628EF5CC600AC051A /* kindpng_4847649.png in Resources */,
+				D54C671728EF5CC600AC051A /* PngItem_1762233.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +183,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D544FBC028EE791200D7D9CD /* ViewController.swift in Sources */,
+				D544FBC028EE791200D7D9CD /* IntroductionViewController.swift in Sources */,
 				D544FBBC28EE791200D7D9CD /* AppDelegate.swift in Sources */,
+				D53DFEB428EF712600A8D8C2 /* QuestionViewController.swift in Sources */,
+				D53DFEBA28EF898200A8D8C2 /* Question.swift in Sources */,
+				D53DFEB628EF717100A8D8C2 /* ResultsViewController.swift in Sources */,
 				D544FBBE28EE791200D7D9CD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
